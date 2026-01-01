@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi there, I'm Rohan ! 🚀<br><br>A CSE student dedicated to turning ideas into code. Whether it's optimizing algorithms on GeeksforGeeks or building interactive UI in React, I’m always up for a challenge.<br><br>🛠 Currently building a Personal Habit Tracker.<br><br>🤝 Frontend Developer for my CSE Student Association.<br><br>📊 Interested in Data Science and AI Strategy.<br><br>⚡ Fun fact: I enjoy gamifying everyday tasks, from spending habits to productivity.<br><br>Connect with me: https://www.linkedin.com/in/rohan-umbare-patil-76b971358/
 
 
