@@ -10,3 +10,8 @@ Hi there, I'm Rohan ! 🚀<br><br>A CSE student dedicated to turning ideas into 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+## 🐍 My GitHub Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/rohan1785/pacman-canvas/output/github-contribution-grid-snake.svg)
